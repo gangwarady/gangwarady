@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @gangwarady
-- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Masters in Computer Science & Engineering.
 - 📫 Reach me at adygangwar9@gmail.com
 
