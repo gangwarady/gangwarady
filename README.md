@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gangwarady
-- 🌱 I’m currently learning Masters in Computer Science & Engineering.
+- 🌱 I’m currently learning Masters in Computer Science & Engineering at IIT Ropar.
 - 📫 Reach me at adygangwar9@gmail.com
 
 <!---
